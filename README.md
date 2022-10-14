@@ -2,6 +2,7 @@
 
 
 ## Personal Music Management System
+## 2022.07
 
 采用Java Swing技术和MySQL数据库设计了。在本项目中加入了跨平台的java MP3播放器, MySQLJava数据库连接（JDBC）4.2 API库。该个人音乐播放器管理系统包括用户和管理员,本系统中主要的功能如下:
 
