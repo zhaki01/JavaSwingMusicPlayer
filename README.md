@@ -19,10 +19,11 @@ MySQL使用了从终端和Workbench可视化的数据库设计软件;
 MP3播放器 jaco-mp3-player-0.9.3,jl-1.0.1
 
 
-![alt 1](https://github.com/zhaki01/JavaSwingMusicPlayer/blob/16fd8e5766a3e6817c0276b647c1032864779971/JavaMusic/Untitled.png)
-![alt 2](https://github.com/zhaki01/JavaSwingMusicPlayer/blob/16fd8e5766a3e6817c0276b647c1032864779971/JavaMusic/2.png)
-![alt 3](https://github.com/zhaki01/JavaSwingMusicPlayer/blob/16fd8e5766a3e6817c0276b647c1032864779971/JavaMusic/3.png)
-![alt 4](https://github.com/zhaki01/JavaSwingMusicPlayer/blob/16fd8e5766a3e6817c0276b647c1032864779971/JavaMusic/4.png)
-![alt 5](https://github.com/zhaki01/JavaSwingMusicPlayer/blob/16fd8e5766a3e6817c0276b647c1032864779971/JavaMusic/5.png)
-![alt 7](https://github.com/zhaki01/JavaSwingMusicPlayer/blob/16fd8e5766a3e6817c0276b647c1032864779971/JavaMusic/7.png)
-![alt zhaki](https://github.com/zhaki01/JavaSwingMusicPlayer/blob/acbff148da3a91cfb2c3fbfb2e1fd499e011d7ad/JavaMusic/8.png)
+![alt 1](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/Untitled.png)
+![alt 2](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/2.png)
+![alt 3](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/3.png)
+![alt 4](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/4.png)
+![alt 5](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/5.png)
+![alt 7](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/6.png)
+![alt 8](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/7.png)
+![alt zhaki](https://github.com/zhaki01/JavaSwingMusicPlayer-/blob/c82b7f6eb95c71e1b83e11657ab69b9935e6d58e/JavaMusic/8.png)
